@@ -1,0 +1,29 @@
+# 1.0.0 (2019-10-28)
+
+
+### Bug Fixes
+
+* bug 1024 ([f814f0d](https://github.com/astonesh/vue-ts-demo/commit/f814f0d9c8e3cd2cc174c50b1db8f31f5389820f))
+* bugfix ([6abf3f5](https://github.com/astonesh/vue-ts-demo/commit/6abf3f5c79aa56738839f03911d279ff48bbb354))
+
+
+### Features
+
+* aaa ([9415b84](https://github.com/astonesh/vue-ts-demo/commit/9415b8426db5968603009d6692bb332a30bace57))
+* ff ([c94dafd](https://github.com/astonesh/vue-ts-demo/commit/c94dafd054e1266239e2008f8587c950da85d571))
+* 增加一个功能 ([97f555d](https://github.com/astonesh/vue-ts-demo/commit/97f555d4c07166bed7d5f2270ec270c045e2b754))
+
+
+### Performance Improvements
+
+* change component ([92ae535](https://github.com/astonesh/vue-ts-demo/commit/92ae535d4ad828568ef30d3f758da7c6890fed9f))
+* ggg ([f924997](https://github.com/astonesh/vue-ts-demo/commit/f9249972398f8417d0f8c3fa71ac108c075647df))
+* 改进性能 ([d2ab5e6](https://github.com/astonesh/vue-ts-demo/commit/d2ab5e6e61c6026d0658b1038ac989762e96f780))
+
+
+### BREAKING CHANGES
+
+* nothing
+
+
+
