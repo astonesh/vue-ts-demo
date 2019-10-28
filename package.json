@@ -13,7 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit test/e2e/specs",
     "build": "node build/build.js",
     "commitmsg": "validate-commit-msg",
-    "changelog":"conventional-changelog -p angular -i CHANGELOG.md -s -p"
+    "changelog":"conventional-changelog -p angular -i CHANGELOG.md -s -u"
   },
   "dependencies": {
     "vue": "^2.5.2",
