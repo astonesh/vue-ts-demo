@@ -2,7 +2,7 @@
 #复制副本
 # cp CHANGELOG.md CHANGElOG1.md
 #生成新的changelog
-npm run changelog >> CHANGELOG2.md
+# npm run changelog >> CHANGELOG2.md
 #比较两个log 生成一个新的md
 # aNum=`cat CHANGELOG.md | wc -l`
 # bNum=`cat CHANGELOG1.md | wc -l`
@@ -80,5 +80,3 @@ npm run changelog >> CHANGELOG2.md
 # 		break
 # 	fi
 # done < a.MD
-
-
